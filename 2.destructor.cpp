@@ -19,3 +19,14 @@ int main(){
     }
     return 0;
 }
+OUTPUT:
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+Destructor called
+
+=== Code Execution Successful ===
